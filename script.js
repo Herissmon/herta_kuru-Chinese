@@ -1,7 +1,7 @@
 //varible
 const audioList = [
-    new Audio("audio/kuruto.mp3"),
-    new Audio("audio/kuru1.mp3"),
+    new Audio("audio/kuru1.MP3"),
+    new Audio("audio/kuru1.MP3"),
     new Audio("audio/kuru2.mp3"),
 ];
 
